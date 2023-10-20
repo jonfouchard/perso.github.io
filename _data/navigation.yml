@@ -9,8 +9,8 @@ main:
     url: /Publications/
 
   - title: "CV"
-    url: /CV/ 
-    #url: /files/CV_JFouchard_En.pdf
+    #url: /CV/ 
+    url: /files/CV_JFouchard_En.pdf
     
   - title: "Blog Posts"
     url: /year-archive/
