@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Fouchard's personal website"
+title                    : "Jon Fouchard's homepage"
 title_separator          : "-"
 name                     : &name "Jonathan Fouchard"
 description              : &description "personal description"
@@ -83,11 +83,11 @@ author:
   name             : "Jonathan Fouchard"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "IBPS, Sorbonne Université"
+  location         : "IBPS, Sorbonne Université, Paris"
   employer         : "CNRS"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GuEvrfgAAAAJ&hl=fr&oi=ao"
-  email            :
+  email            : "jonathan.fouchard@sorbonne-universite.fr"
   researchgate     : 
   uri              :
   bitbucket        :
