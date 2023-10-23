@@ -1,6 +1,6 @@
 ---
 title: "Names and representations of living tissues"
-excerpt: "How scientists decide to name things <br/><img src='/images/Stroma-Illustration-Tissus-bio.jpg'>"
+excerpt: "How scientists decide to name things" #<br/><img src='/images/Stroma-Illustration-Tissus-bio.jpg'>"
 collection: portfolio
 year : 2021
 ---
