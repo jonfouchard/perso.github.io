@@ -1,0 +1,6 @@
+---
+title: "Mechanics of soft fibrous tissues"
+excerpt: "How active and passive forces contribute to soft fibrous tissue mechanical properties <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+blabla
