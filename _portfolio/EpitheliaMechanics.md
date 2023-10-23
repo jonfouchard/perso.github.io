@@ -1,6 +1,6 @@
 ---
-title: "Mechanics of epithelial monolayers (past work)"
-excerpt: "How epithelial monolayers fold and flow <br/><img src='/images/500x300.png'>"
+title: "Folds and flows of epithelial monolayers (past work)"
+excerpt: "How epithelial monolayers respond to mechanical stresses fold and flow <br/><img src='/images/500x300.png'>"
 collection: portfolio
 year : 2020
 ---
