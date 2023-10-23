@@ -3,10 +3,10 @@ main:
   
   
   - title: "Research"
-    url: _pages/research/    
+    url: /research/    
     
   - title: "Publications"
-    url: _pages/publications/
+    url: /publications/
 
   - title: "CV"
     #url: /CV/ 
@@ -16,5 +16,5 @@ main:
     url: /year-archive/
   
   - title: "Grand public (en français)"
-    url: /Public/      
+    url: /public/      
  
