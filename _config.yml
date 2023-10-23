@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jonathan Fouchard"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "IBPS, Sorbonne Université, Paris"
   employer         : "CNRS"
   pubmed           : 
