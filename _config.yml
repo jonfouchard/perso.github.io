@@ -205,14 +205,14 @@ defaults:
   - scope:
       path: ""
       type: pages
-    values:
+      values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
       type: teaching
-    values:
+      values:
       layout: single
       author_profile: true
       share: true
@@ -221,7 +221,7 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
+      values:
       layout: single
       author_profile: true
       share: true
@@ -230,7 +230,7 @@ defaults:
   - scope:
       path: ""
       type: portfolio
-    values:
+      values:
       layout: single
       author_profile: true
       share: true
