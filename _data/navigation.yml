@@ -3,10 +3,10 @@ main:
   
   
   - title: "Research"
-    url: _pages/research/    
+    url: /research/    
     
   - title: "Publications"
-    url: _pages/publications/
+    url: /publications/
 
   - title: "CV"
     #url: /CV/ 
