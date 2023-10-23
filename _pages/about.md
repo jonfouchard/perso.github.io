@@ -14,6 +14,6 @@ My work is at the interface between biology, physics and mechanics. Starting fro
 
 My most recent interest is in the dynamics of soft fibrous tissues and how mechanical properties of these tissues are controlled during development and pathology. I'm still interested in some of my past research topics like single cell mechanics and mechano-sensing, cell division and epithelial tissue mechanics, in particular how they fold and flow. I'm also curious about the evolution of scientific language, currently working on the names and representations associated to living tissues. 
 
-To know more, visit my [Research](https://jonfouch.github.io/jonfouchard.github.io/research.html) webpage. If you are interested in this research, don't hesitate to contact me. 
+To know more, visit my [Research](https://jonfouch.github.io/jonfouchard.github.io/portfolio.html) webpage. If you are interested in this research, don't hesitate to contact me. 
 
 
