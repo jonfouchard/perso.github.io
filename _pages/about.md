@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
   
-I'm a CNRS research fellow working in the department of Developemental Biology of the [IBPS](https://www.ibps.sorbonne-universite.fr/en) institute at Sorbonne Université. 
+I'm a CNRS research fellow working in the department of Developemental Biology of the [IBPS](https://www.ibps.sorbonne-universite.fr/en) institute at Sorbonne Université, where I'm a member of the group [Muscle and tendon formation and repair](https://www.ibps.sorbonne-universite.fr/en/research/developmental-biology-laboratory/muscle-and-tendon-formation-and-repair)
 
 My work is at the interface between biology, physics and mechanics. Starting from custom-made mechanical setups coupled to live imaging, I want to understand how living systems adapt to mechanical stimuli or generate forces to realize biological functions.
 
