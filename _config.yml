@@ -11,8 +11,8 @@ title                    : "Jon Fouchard's homepage"
 title_separator          : "-"
 name                     : &name "Jonathan Fouchard"
 description              : &description "personal description"
-url                      : jonfouchard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : jonfouch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : jonfouchard.github.io # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
