@@ -1,6 +1,6 @@
 ---
 title: "Names and representations of living tissues"
-excerpt: "![Illustration names of living tissues](images/Stroma-Illustration-Tissus-bio.jpg)"
+excerpt: "![Illustration names of living tissues](/images/Stroma-Illustration-Tissus-bio.jpg)"
 collection: portfolio
 year : 2021
 ---
