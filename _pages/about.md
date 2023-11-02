@@ -15,6 +15,6 @@ Understanding this necessitates concepts from soft matter and active matter phys
 
 I'm currently a member of the group [Muscle and tendon formation and repair](https://www.ibps.sorbonne-universite.fr/en/research/developmental-biology-laboratory/muscle-and-tendon-formation-and-repair) where I work on the dynamics of soft fibrous tissues with a particular interest in how active forces control their mechanical properties during development and pathology. I'm still interested in some of my past research topics like single cell mechanics and epithelial tissue mechanics. I'm also curious about the evolution of scientific language, currently working on the names and representations associated to living tissues. 
 
-To know more about past and current projects, visit my [Research](https://jonfouch.github.io/jonfouchard.github.io/portfolio.html) webpage. If you are interested in this research, don't hesitate to contact me. 
+To know more about past and current projects, visit my [Research](https://jonfouch.github.io/perso.github.io/portfolio.html) webpage. If you are interested in this research, don't hesitate to contact me. 
 
 
