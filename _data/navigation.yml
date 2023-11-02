@@ -6,7 +6,7 @@ main:
     url: /portfolio/    
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=fr&user=GuEvrfgAAAAJ&view_op=list_works&sortby=pubdate
 
   - title: "CV"
     #url: /CV/ 
