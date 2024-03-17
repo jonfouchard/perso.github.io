@@ -4,7 +4,7 @@ excerpt: "![](https://jonfouchard.github.io/perso.github.io/images/Stroma-Illust
 collection: portfolio
 year : 2021
 ---
-This project is realised in close collaboration with [Nathalie Rousseau](https://www.iufrance.fr/les-membres-de-liuf/membre/2053-nathalie-rousseau.html), linguist and philologist, specialist of Greek medical language and of medical dictionaries, and with undergraduate students of the [Mineure Histoire et Philosophie des Sciences et Techniques](https://sciences.sorbonne-universite.fr/formation-sciences/licences/mineures-transdisciplinaires-thematiques/mineure-HPST) of Sorbonne Université. 
+This research work is realised in close collaboration with [Nathalie Rousseau](https://www.iufrance.fr/les-membres-de-liuf/membre/2053-nathalie-rousseau.html), linguist and philologist, specialist of Greek medical language and of medical dictionaries, and with undergraduate students of the [Mineure Histoire et Philosophie des Sciences et Techniques](https://sciences.sorbonne-universite.fr/formation-sciences/licences/mineures-transdisciplinaires-thematiques/mineure-HPST) of Sorbonne Université. 
 
 ![](https://jonfouchard.github.io/perso.github.io/images/Stroma-Illustration-Tissus-bio.jpg){: .align-right width="200px"}
 
