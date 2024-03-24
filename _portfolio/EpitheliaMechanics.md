@@ -11,11 +11,13 @@ This is my main post-doc work, realized in the lab of [Guillaume Charras](https:
 I am very grateful to have worked with fanstastic PhD students and post-docs there : Tom Wyatt, Ana Lisica, Pierre Recho, Nargess Khalilgharibi, Alessandra Bonfanti, Julia Duque, Anna Bove and many others.
 
 ---- 
-Epithelial monolayers...
+Epithelia are two-dimensional cell sheets that line most of the body surfaces, separating internal and external environments. In order to maintain tissue integrity, they need to withstand mechanical stresses (stretches, bends or compressions). 
+But they can also generate patterned mechanical stresses from within (through active forces), creating deformations which drive tissue morphogenesis during early development. 
+
 
 **Research topics**
-- Curling of epithelial monolayers. Role of assymetric active forces in bending of the epithelium free edge and regulation by exogenous in-plane deformations. Implications for developement. With Pierre Recho and others
-- Buckling and rapid relaxation of folds of mono- and multi-layered epithelia in response to compression. With Tom Wyatt and others
+- Curling of epithelial monolayers : First direct measurement of Role of assymetric active forces in bending of the epithelium free edge and regulation by exogenous in-plane deformations. Implications for developement. With Pierre Recho and others
+- Buckling and rapid relaxation of folds of mono- and multi-layered epithelia in response to compression (article [here](https://www.biorxiv.org/content/10.1101/422196v1.full)). With Tom Wyatt and others
 - Creep and fracture of epithelial monolayers. This work was mainly driven by Julia Duque and Alessandra Bonfanti
 
 
