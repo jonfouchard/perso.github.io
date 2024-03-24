@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
   
-I'm a CNRS research fellow, biophysicist working in the department of Developemental Biology of the [IBPS](https://www.ibps.sorbonne-universite.fr/en) Institute at Sorbonne Université. 
+I'm a CNRS research fellow, biophysicist working in the department of Developmental Biology of the [IBPS](https://www.ibps.sorbonne-universite.fr/en) Institute at Sorbonne Université. 
 
 During development and at adult age, cells and tissues are subjected to stretches, compressions or changes of the rigidity of their substrate. In order to adapt to such dynamic mechanical environment, they often change shape or mechanical properties. I'm interested in the mechanisms permitting such adaptation, with a particular focus on the collective response of cytoskeletal elements, independent of signalling.
 Most of my effort is dedicated to providing mechanical measurements at the cell and/or tissue scales coupled to live imaging and molecular perturbations of the biological structures of interest. 
