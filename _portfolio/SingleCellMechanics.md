@@ -1,6 +1,6 @@
 ---
 title: "Cell spreading and mechano-sensing (past and current work)"
-excerpt: "How single cell exert forces and adapt it to the mechanics of their substrate <br/><img src='/images/500x300.png'>"
+excerpt: "![](https://jonfouchard.github.io/perso.github.io/images/FibrousTissue-Illustration.jpg)"
 collection: portfolio
 year : 2022
 ---
