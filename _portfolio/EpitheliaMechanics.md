@@ -1,6 +1,6 @@
 ---
 title: "Folds and flows of epithelial monolayers (past work)"
-excerpt: "How epithelial monolayers respond to mechanical stresses fold and flow <br/><img src='/images/500x300.png'>"
+excerpt: "![](https://jonfouchard.github.io/perso.github.io/images/FibrousTissue-Illustration.jpg)"
 collection: portfolio
 year : 2020
 ---
