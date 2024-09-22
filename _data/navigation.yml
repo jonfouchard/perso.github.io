@@ -6,11 +6,15 @@ main:
     url: /portfolio/    
     
   - title: "Publications"
-    url: https://scholar.google.com/citations?hl=fr&user=GuEvrfgAAAAJ&view_op=list_works&sortby=pubdate
+    url: /publications/
+    #url: https://scholar.google.com/citations?hl=fr&user=GuEvrfgAAAAJ&view_op=list_works&sortby=pubdate
 
-  - title: "CV"
+  - title: "Collaborations"
+    url: /collaborations/
+
+  #- title: "CV"
     #url: /CV/ 
-    url: /files/CV_JFouchard_En.pdf
+  #  url: /files/CV_JFouchard_En.pdf
     
   - title: "Blog Posts"
     url: /year-archive/
