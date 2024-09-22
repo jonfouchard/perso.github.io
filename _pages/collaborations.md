@@ -9,21 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Soft fibrous tissue biophysics & Extra-cellular matrix mechanics
-======
-* Léa-Laëtitia Pontani, Laboratoire Jean Perrin, Sorbonne Université
-* Jocelyn Etienne, Laboratoire
-* Marie Breau,
-* Richard Tomasini
+** Soft fibrous tissue biophysics & Extra-cellular matrix mechanics **
+- Léa-Laëtitia Pontani, Laboratoire Jean Perrin, Sorbonne Université
+- Jocelyn Etienne, Laboratoire
+- Marie Breau,
+- Richard Tomasini
 
-Cell Mechanics
-======
-* Jocelyn Etienne
-* Atef Asnacios
+** Cell Mechanics **
+- Jocelyn Etienne
+- Atef Asnacios
   
-Scientific language
-======
-* Nathalie Rousseau
+** Scientific language **
+- Nathalie Rousseau
 
 PhD Students
 ======
