@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Fouchard"
-  avatar           : "images/Photo_Jon_light.jpg"
+  avatar           : "/images/Photo_Jon_light.jpg"
   bio              : 
   location         : "IBPS, Sorbonne Université, Paris"
   employer         : "CNRS"
