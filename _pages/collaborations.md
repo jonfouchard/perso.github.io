@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: collaborations
 title: "Collaborations"
 permalink: /collaborations/
 author_profile: true
