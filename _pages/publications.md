@@ -19,7 +19,7 @@ redirect_from:
 
 **Extra-cellular matrix and soft tissue mechanics**
 - Human adipose stromal cells differentiate towards a tendon phenotype with extracellular matrix production and adapted visco-elastic properties in a 3D-culture system. (2024). M. Horde, J. Fouchard, X. Laffray, C. Blavet, V. Bereziat, C. Lagathu, L. Gaut, D. Duprez and E. Havis. *bioRxiv*, 2024.04. 25.591060.
-- Laminin γ1-dependent basement membranes are instrumental to ensure proper olfactory placode shape, position and boundary with the brain, as well as olfactory axon development. (2024). P Tignard, K Pottin, A Geeverding, M Doulazmi, M Cabrera, C Fouquet, M Liffran, J Fouchard, M Rosello, S Albadri, F Del Bene, A Trembleau and MA Breau. *bioRxiv*, 2023.06. 29.547040.
+- Laminin γ1-dependent basement membranes are instrumental to ensure proper olfactory placode shape, position and boundary with the brain, as well as olfactory axon development. (2024). P. Tignard, K. Pottin, A. Geeverding, M. Doulazmi, M. Cabrera, C. Fouquet, M. Liffran, J. Fouchard, M. Rosello, S. Albadri, F. Del Bene, A. Trembleau and M.A. Breau. *bioRxiv*, 2023.06. 29.547040.
 - High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.
 
 **Single cell mechanosensing**
