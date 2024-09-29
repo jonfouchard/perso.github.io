@@ -20,7 +20,7 @@ redirect_from:
 - Cells as liquid motors: Mechanosensitivity emerges from collective dynamics of actomyosin cortex. (2015). J. Étienne, J. Fouchard, D. Mitrossilis, N. Bufi, P. Durand-Smet and A. Asnacios. *PNAS*, 112(9):2740–2745.
 - Three-dimensional cell body shape dictates the onset of traction force generation and growth of focal adhesions. (2014). J. Fouchard, C. Bimbard, N. Bufi, P. Durand-Smet, A. Proag, A. Richert, O. Cardoso, and A. Asnacios. *PNAS*, 111(36):13075–13080.
 - Real-time single-cell response to stiffness. (2010). D. Mitrossilis, J. Fouchard, D. Pereira, F. Postic, A. Richert, M. Saint-Jean, and A. Asnacios. *PNAS*, 107(38):16518–16523.
-- Single-cell response to stiffness exhibits muscle-like behavior. (2009) D. Mitrossilis, J. Fouchard, A. Guiroy, N. Desprat, N. Rodriguez, B. Fabry, and A. Asnacios. *PNAS*, 106(43):18243–18248. [[link](https://www.pnas.org/doi/abs/10.1073/pnas.0903994106){:target="_blank"}]
+- Single-cell response to stiffness exhibits muscle-like behavior. (2009) D. Mitrossilis, J. Fouchard, A. Guiroy, N. Desprat, N. Rodriguez, B. Fabry, and A. Asnacios. *PNAS*, 106(43):18243–18248.
 
 **Mechanics of cell division**
 - Tension at intercellular junctions is necessary for accurate orientation of cell division in the epithelium plane. (2022). A. Lisica, J. Fouchard, M. Kelkar, T. Wyatt, J. Duque, A.-B. Ndiaye, A. Bonfanti, B. Baum, A. Kabla, G. Charras. *PNAS*, 119(49), e2201600119.
@@ -28,7 +28,7 @@ redirect_from:
 - Fission yeast kinesin-8 controls chromosome congression independently of oscillations. (2015). H. Mary, J. Fouchard, G. Gay, C. Reyes, T. Gauthier, C. Gruget, J. Pécréaux, S. Tournier and Y. Gachet. *Journal of Cell Science*, 128(20):3720–3730.
 
 **Mechanics of fibrous tissues and extra-cellular matrix**
-- High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.[[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2832609/)]
+- High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.
 
 **Reviews and comments**
 - How dynamic prestress governs the shape of living systems, from the subcellular to tissue scale. (2022). A. Erlich, J. Étienne, J. Fouchard, T. Wyatt. *Interface Focus*, 12(6), 20220038.
