@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Soft fibrous tissue biophysics & Extra-cellular matrix mechanics**
-- [Léa-Laëtitia Pontani]https://www.labojeanperrin.fr/?lpontani), Laboratoire Jean Perrin, Sorbonne Université
+- [Léa-Laëtitia Pontani](https://www.labojeanperrin.fr/?lpontani), Laboratoire Jean Perrin, Sorbonne Université
 - [Jocelyn Etienne](http://liphy-annuaire.univ-grenoble-alpes.fr/pages_personnelles/jocelyn_etienne/), Laboratoire interdisciplinaire de Physique, Université Grenoble Alpes
 - [Marie Breau](https://www.ibps.sorbonne-universite.fr/en/research/developmental-biology-laboratory/mechanics-neuronal-development), Laboratoire de Biologie du Développement, Sorbonne Université
 - [Richard Tomasini](https://www.crcm-marseille.fr/equipes/equipes-de-recherche/dialogue-cellules-stromales-tumorales-et-reprogrammation-metabolique-dans-les-cancers-du-pancreas/), Centre de recherche en cancérologie de Marseille, Aix-Marseille Université
