@@ -28,7 +28,7 @@ redirect_from:
 - Fission yeast kinesin-8 controls chromosome congression independently of oscillations. (2015). H. Mary, J. Fouchard, G. Gay, C. Reyes, T. Gauthier, C. Gruget, J. Pécréaux, S. Tournier and Y. Gachet. *Journal of Cell Science*, 128(20):3720–3730.
 
 **Mechanics of fibrous tissues and extra-cellular matrix**
-- High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.
+- High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.[[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2832609/)]
 
 **Reviews and comments**
 - How dynamic prestress governs the shape of living systems, from the subcellular to tissue scale. (2022). A. Erlich, J. Étienne, J. Fouchard, T. Wyatt. *Interface Focus*, 12(6), 20220038.
