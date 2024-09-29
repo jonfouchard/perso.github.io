@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Flows and folds of epithelial tissues**
+**Flows and folds of epithelial tissue**
 - Rupture strength of living cell monolayers. (2023). J. Duque, A. Bonfanti, J. Fouchard, L. Baldauf, S. R. Azenha, E. Ferber, A. Harris, E. Barriga, A. Kabla and G. Charras. *bioRxiv*, 2023.01. 05.522736.
 - Curling of epithelial monolayers reveals a coupling between active bending and tissue tension. (2020). J. Fouchard, T. Wyatt, A. Proag, A. Lisica, P. Recho, M. Suzanne, A. Kabla and G. Charras. *PNAS*, 117(17):9377-9383.
 - Actomyosin controls planarity and folding of epithelial monolayers during compression. (2020). T. Wyatt*, J. Fouchard*, A. Lisica, N. Khalilgharibi, B. Baum, P. Recho, A. Kabla and G. Charras.  *Nature Materials*, 19:109–117. Commented in the same issue: To buckle or not to buckle, U. Schwartz, 19:8–9.
@@ -17,7 +17,7 @@ redirect_from:
 - A unified rheological model for cells and cellularised materials. (2020). A. Bonfanti, J. Fouchard, N. Khalilgharibi, G. Charras and A. Kabla. *Royal Society Open Science*, 7:190920.
 - Stress relaxation in epithelial monolayers is controlled by actomyosin. (2019) N. Khalilgharibi, J. Fouchard, N. Asadipour, A. Harris, P. Mosaffa, Y. Fujita, A. Kabla, J. Munoz, M. Miodownik, and G. Charras. *Nature Physics*, 15:839–847.
 
-**Extra-cellular matrix and soft tissues mechanics**
+**Extra-cellular matrix and soft tissue mechanics**
 - Human adipose stromal cells differentiate towards a tendon phenotype with extracellular matrix production and adapted visco-elastic properties in a 3D-culture system. (2024). M. Horde, J. Fouchard, X. Laffray, C. Blavet, V. Bereziat, C. Lagathu, L. Gaut, D. Duprez and E. Havis. *bioRxiv*, 2024.04. 25.591060.
 - Laminin γ1-dependent basement membranes are instrumental to ensure proper olfactory placode shape, position and boundary with the brain, as well as olfactory axon development. (2024). P Tignard, K Pottin, A Geeverding, M Doulazmi, M Cabrera, C Fouquet, M Liffran, J Fouchard, M Rosello, S Albadri, F Del Bene, A Trembleau and MA Breau. *bioRxiv*, 2023.06. 29.547040.
 - High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.
