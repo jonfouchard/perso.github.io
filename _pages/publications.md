@@ -16,7 +16,7 @@ redirect_from:
 - A unified rheological model for cells and cellularised materials. (2020). A. Bonfanti, J. Fouchard, N. Khalilgharibi, G. Charras and A. Kabla. *Royal Society Open Science*, 7:190920.
 - Stress relaxation in epithelial monolayers is controlled by actomyosin. (2019) N. Khalilgharibi, J. Fouchard, N. Asadipour, A. Harris, P. Mosaffa, Y. Fujita, A. Kabla, J. Munoz, M. Miodownik, and G. Charras.  *Nature Physics*, 15:839–847.
 
-**Single cell mechanics**
+**Single cell mechanosensing**
 - Cells as liquid motors: Mechanosensitivity emerges from collective dynamics of actomyosin cortex. (2015). J. Étienne, J. Fouchard, D. Mitrossilis, N. Bufi, P. Durand-Smet and A. Asnacios. *PNAS*, 112(9):2740–2745.
 - Three-dimensional cell body shape dictates the onset of traction force generation and growth of focal adhesions. (2014). J. Fouchard, C. Bimbard, N. Bufi, P. Durand-Smet, A. Proag, A. Richert, O. Cardoso, and A. Asnacios. *PNAS*, 111(36):13075–13080.
 - Real-time single-cell response to stiffness. (2010). D. Mitrossilis, J. Fouchard, D. Pereira, F. Postic, A. Richert, M. Saint-Jean, and A. Asnacios. *PNAS*, 107(38):16518–16523.
@@ -27,7 +27,7 @@ redirect_from:
 - MAARS: a novel high-content acquisition software for the analysis of mitotic defects in fission yeast. (2017). T. Li, H. Mary, M. Grosjean, J. Fouchard, S. Cabello, C. Reyes, S. Tournier and Y. Gachet. *Molecular Biology of the cell*, 28(12),1601-1611.
 - Fission yeast kinesin-8 controls chromosome congression independently of oscillations. (2015). H. Mary, J. Fouchard, G. Gay, C. Reyes, T. Gauthier, C. Gruget, J. Pécréaux, S. Tournier and Y. Gachet. *Journal of Cell Science*, 128(20):3720–3730.
 
-**Mechanics of fibrous tissues and extra-cellular matrix**
+**Extra-cellular matrix and soft tissues mechanics**
 - High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.
 
 **Reviews and comments**
