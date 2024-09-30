@@ -2,8 +2,8 @@
 main:
   
   
-  - title: "Research"
-    url: /portfolio/    
+  #- title: "Research"
+  #  url: /portfolio/    
     
   - title: "Publications"
     url: /publications/
@@ -16,8 +16,8 @@ main:
     #url: /CV/ 
   #  url: /files/CV_JFouchard_En.pdf
     
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
   
   - title: "Grand public (en français)"
     url: /public/      
