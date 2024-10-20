@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Fouchard's research homepage"
+title                    : "Jonathan Fouchard's homepage"
 title_separator          : "-"
 name                     : &name "Jonathan Fouchard"
 description              : &description "personal description"
