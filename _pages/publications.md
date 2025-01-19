@@ -19,10 +19,12 @@ redirect_from:
 
 **Extra-cellular matrix and soft tissue mechanics**
 - Human adipose stromal cells differentiate towards a tendon phenotype with extracellular matrix production and adapted visco-elastic properties in a 3D-culture system. (2024). M. Horde, J. Fouchard, X. Laffray, C. Blavet, V. Bereziat, C. Lagathu, L. Gaut, D. Duprez and E. Havis. *bioRxiv*, 2024.04. 25.591060.
-- Laminin γ1-dependent basement membranes are instrumental to ensure proper olfactory placode shape, position and boundary with the brain, as well as olfactory axon development. (2024). P. Tignard, K. Pottin, A. Geeverding, M. Doulazmi, M. Cabrera, C. Fouquet, M. Liffran, J. Fouchard, M. Rosello, S. Albadri, F. Del Bene, A. Trembleau and M.A. Breau. *eLife*.
+- Laminin γ1-dependent basement membranes are instrumental to ensure proper olfactory placode shape, position and boundary with the brain, as well as olfactory axon development. (2024). P. Tignard, K. Pottin, A. Geeverding, M. Doulazmi, M. Cabrera, C. Fouquet, M. Liffran, J. Fouchard, M. Rosello, S. Albadri, F. Del Bene, A. Trembleau and M.A. Breau. *eLife*, 12, RP92004.
 - High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.
 
 **Single cell mechanosensing**
+- Allometric spreading and focal adhesion collective organization are coordinated by cell-scale geometrical constraints. (2025). C. Bimbard, A-A. Wahhod, D. Mitrossilis, J. Vermeil, R. Bousquet, A. Richert, D. Pereira, P. Durand-Smet, J. Etienne, A. Asnacios and J. Fouchard. *bioRxiv* 2025.01 17.632363.
+- Disentangling the contributions of stress fibres and the unbundled actin meshwork to the anisotropy of cortical tension in response to cell shape. (2024). F. Fage, S. Asnacios, A. Pluta, A. Richert, C. Vias, J. Fouchard, H. Enslen, J. Etienne, A. Callan-Jones, M. Thery, D. Pereira, A. Asnacios. *bioRxiv* 2024.10. 25.620349.
 - Cells as liquid motors: Mechanosensitivity emerges from collective dynamics of actomyosin cortex. (2015). J. Étienne, J. Fouchard, D. Mitrossilis, N. Bufi, P. Durand-Smet and A. Asnacios. *PNAS*, 112(9):2740–2745.
 - Three-dimensional cell body shape dictates the onset of traction force generation and growth of focal adhesions. (2014). J. Fouchard, C. Bimbard, N. Bufi, P. Durand-Smet, A. Proag, A. Richert, O. Cardoso, and A. Asnacios. *PNAS*, 111(36):13075–13080.
 - Real-time single-cell response to stiffness. (2010). D. Mitrossilis, J. Fouchard, D. Pereira, F. Postic, A. Richert, M. Saint-Jean, and A. Asnacios. *PNAS*, 107(38):16518–16523.
