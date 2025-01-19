@@ -12,7 +12,7 @@ redirect_from:
 **Flows and folds of epithelial tissues**
 - Rupture strength of living cell monolayers. (2024). J. Duque, A. Bonfanti, J. Fouchard, L. Baldauf, S. R. Azenha, E. Ferber, A. Harris, E. Barriga, A. Kabla and G. Charras. *Nature Materials*, 23:1563–1574.
 - Curling of epithelial monolayers reveals a coupling between active bending and tissue tension. (2020). J. Fouchard, T. Wyatt, A. Proag, A. Lisica, P. Recho, M. Suzanne, A. Kabla and G. Charras. *PNAS*, 117(17):9377-9383.
-- Actomyosin controls planarity and folding of epithelial monolayers during compression. (2020). T. Wyatt*, J. Fouchard*, A. Lisica, N. Khalilgharibi, B. Baum, P. Recho, A. Kabla and G. Charras.  *Nature Materials*, 19:109–117. Commented in the same issue: To buckle or not to buckle, U. Schwartz, 19:8–9.
+- Actomyosin controls planarity and folding of epithelial monolayers during compression. (2020). T. Wyatt, J. Fouchard, A. Lisica, N. Khalilgharibi, B. Baum, P. Recho, A. Kabla and G. Charras.  *Nature Materials*, 19:109–117. Commented in the same issue: To buckle or not to buckle, U. Schwartz, 19:8–9.
 - A tug-of-war between stretching and bending in living cell sheets. (2020). P. Recho, J. Fouchard, T. Wyatt, N. Khalilgharibi, G. Charras and A. Kabla. *Physical Review E*, 102, 012401.
 - A unified rheological model for cells and cellularised materials. (2020). A. Bonfanti, J. Fouchard, N. Khalilgharibi, G. Charras and A. Kabla. *Royal Society Open Science*, 7:190920.
 - Stress relaxation in epithelial monolayers is controlled by actomyosin. (2019) N. Khalilgharibi, J. Fouchard, N. Asadipour, A. Harris, P. Mosaffa, Y. Fujita, A. Kabla, J. Munoz, M. Miodownik, and G. Charras. *Nature Physics*, 15:839–847.
