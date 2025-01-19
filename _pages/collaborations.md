@@ -24,6 +24,6 @@ redirect_from:
 
 PhD Students
 ======
-* Ali Wahood (2021-2024), Living droplets : cell spreading as a wetting problem, co-supervised with Jocelyn Etienne
-* Olga Vasiljevic (2023-now), Designing functionalized oil droplets to study force transmission through the extra-cellular matrix, co-supervised with Léa-Laëtitia Pontani & Marie Breau
-* Thomas Charles (2024-now), Cell-cell mechanical communication through the extra-cellular matrix, co-supervised with Léa-Laëtitia Pontani
+* Ali Alhadi Wahhod (2021-2024), *Living droplets : cell spreading as a wetting problem*, co-supervised with Jocelyn Etienne
+* Olga Vasiljevic (2023-now), *Designing functionalized oil droplets to study force transmission through the extra-cellular matrix*, co-supervised with Léa-Laëtitia Pontani & Marie Breau
+* Thomas Charles (2024-now), *Cell-cell mechanical communication through the extra-cellular matrix*, co-supervised with Léa-Laëtitia Pontani
