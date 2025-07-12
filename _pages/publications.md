@@ -12,13 +12,14 @@ redirect_from:
 **Flows and folds of epithelial tissues**
 - Rupture strength of living cell monolayers. (2024). J. Duque, A. Bonfanti, J. Fouchard, L. Baldauf, S. R. Azenha, E. Ferber, A. Harris, E. Barriga, A. Kabla and G. Charras. *Nature Materials*, 23:1563–1574.
 - Curling of epithelial monolayers reveals a coupling between active bending and tissue tension. (2020). J. Fouchard, T. Wyatt, A. Proag, A. Lisica, P. Recho, M. Suzanne, A. Kabla and G. Charras. *PNAS*, 117(17):9377-9383.
-- Actomyosin controls planarity and folding of epithelial monolayers during compression. (2020). T. Wyatt, J. Fouchard, A. Lisica, N. Khalilgharibi, B. Baum, P. Recho, A. Kabla and G. Charras.  *Nature Materials*, 19:109–117. Commented in the same issue: To buckle or not to buckle, U. Schwartz, 19:8–9.
+- Actomyosin controls planarity and folding of epithelial monolayers during compression. (2020). T. Wyatt, J. Fouchard, A. Lisica, N. Khalilgharibi, B. Baum, P. Recho, A. Kabla and G. Charras. *Nature Materials*, 19:109–117. Commented in the same issue: To buckle or not to buckle, U. Schwartz, 19:8–9.
 - A tug-of-war between stretching and bending in living cell sheets. (2020). P. Recho, J. Fouchard, T. Wyatt, N. Khalilgharibi, G. Charras and A. Kabla. *Physical Review E*, 102, 012401.
 - A unified rheological model for cells and cellularised materials. (2020). A. Bonfanti, J. Fouchard, N. Khalilgharibi, G. Charras and A. Kabla. *Royal Society Open Science*, 7:190920.
 - Stress relaxation in epithelial monolayers is controlled by actomyosin. (2019) N. Khalilgharibi, J. Fouchard, N. Asadipour, A. Harris, P. Mosaffa, Y. Fujita, A. Kabla, J. Munoz, M. Miodownik, and G. Charras. *Nature Physics*, 15:839–847.
 
 **Extra-cellular matrix and soft tissue mechanics**
-- Human adipose stromal cells differentiate towards a tendon phenotype with extracellular matrix production and adapted visco-elastic properties in a 3D-culture system. (2024). M. Horde, J. Fouchard, X. Laffray, C. Blavet, V. Bereziat, C. Lagathu, L. Gaut, D. Duprez and E. Havis. *bioRxiv*, 2024.04. 25.591060.
+- Osmotic pressure induces unexpected relaxation of contractile 3D microtissue. (2025). G. Cappello, F. Wodrascka, G. Marquez-Vivas, A.E. Radwan, P. Anoop, P. Mascheroni, J. Fouchard, B. Fabry, D. Ambrosi, P. Recho, S. de Beco, M. Balland, T. Boudou.  *The European Physical Journal E*, 34(48).
+- Human adipose stromal cells differentiate towards a tendon phenotype with adapted visco-elastic properties in a 3D-culture system. (2025). M. Horde, J. Fouchard,  L.G. Palacios, X. Laffray, C. Blavet, V. Bereziat, C. Lagathu, L. Gaut, D. Duprez and E. Havis. *Biology Open*, 14 (5), bio061911.
 - Laminin γ1-dependent basement membranes are instrumental to ensure proper olfactory placode shape, position and boundary with the brain, as well as olfactory axon development. (2024). P. Tignard, K. Pottin, A. Geeverding, M. Doulazmi, M. Cabrera, C. Fouquet, M. Liffran, J. Fouchard, M. Rosello, S. Albadri, F. Del Bene, A. Trembleau and M.A. Breau. *eLife*, 12, RP92004.
 - High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.
 
@@ -39,3 +40,6 @@ redirect_from:
 - How dynamic prestress governs the shape of living systems, from the subcellular to tissue scale. (2022). A. Erlich, J. Étienne, J. Fouchard and T. Wyatt. *Interface Focus*, 12(6), 20220038.
 - The dynamic mechanical properties of cellularised aggregates. (2016) N. Khalilgharibi, J. Fouchard, P. Recho, G. Charras and A. Kabla.  *Current Opinion in Cell Biology*, 42(2016): 113-120.
 - Acto-myosin based response to stiffness and rigidity sensing. (2011). J. Fouchard, D. Mitrossilis, and A. Asnacios. *Cell Adhesion and Migration*, 5(1):16–19.
+
+**Methods**
+- Design and optimization of in situ self-functionalizing stress sensors. (2025).  O. Vasiljevic, N. Harmand, A. Hubert, L. Kebbal, V. Bormuth, C. Hayn, J. Fouchard, M.A. Breau, L.-L. Pontani, *arXiv*, 2507.05907.
