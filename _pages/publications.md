@@ -20,7 +20,7 @@ redirect_from:
 Article promoted on the cover of Biophysical Journal. See also [description on the journal blog](https://www.biophysics.org/blog/cell-adhesion-pattern-shows-conserved-scalings-under-geometrical-control)
 
 <div style="text-align:center">
-    <img src="/files/coverBiophysJ-Spreading.jpg" alt="dartmouth 1" width="200" height="400">
+    <img src="/files/coverBiophysJ-Spreading.jpg" width="200" height="400">
 </div>
 
 - Disentangling the contributions of stress fibres and the unbundled actin meshwork to the anisotropy of cortical tension in response to cell shape. (2024). F. Fage, S. Asnacios, A. Pluta, A. Richert, C. Vias, J. Fouchard, H. Enslen, J. Etienne, A. Callan-Jones, M. Thery, D. Pereira, A. Asnacios. *bioRxiv* 2024.10. 25.620349.
