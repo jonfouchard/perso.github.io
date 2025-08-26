@@ -19,9 +19,8 @@ redirect_from:
 - Allometric spreading and focal adhesion collective organization are coordinated by cell-scale geometrical constraints. (2025). C. Bimbard, A-A. Wahhod, D. Mitrossilis, J. Vermeil, R. Bousquet, A. Richert, D. Pereira, P. Durand-Smet, J. Etienne, A. Asnacios and J. Fouchard. *Biophysical Journal* 124(16):2754-2767.
 Article promoted on the cover of Biophysical Journal. See also [description on the journal blog](https://www.biophysics.org/blog/cell-adhesion-pattern-shows-conserved-scalings-under-geometrical-control)
 
-<div style="text-align:center">
-    <img src="https://raw.githubusercontent.com/files/assets/coverBiophysJ-Spreading.jpg" width="200" height="400">
-</div>
+![alt text](/files/coverBiophysJ-Spreading.jpg)
+
 
 - Disentangling the contributions of stress fibres and the unbundled actin meshwork to the anisotropy of cortical tension in response to cell shape. (2024). F. Fage, S. Asnacios, A. Pluta, A. Richert, C. Vias, J. Fouchard, H. Enslen, J. Etienne, A. Callan-Jones, M. Thery, D. Pereira, A. Asnacios. *bioRxiv* 2024.10. 25.620349.
 - Cells as liquid motors: Mechanosensitivity emerges from collective dynamics of actomyosin cortex. (2015). J. Étienne, J. Fouchard, D. Mitrossilis, N. Bufi, P. Durand-Smet and A. Asnacios. *PNAS*, 112(9):2740–2745.
