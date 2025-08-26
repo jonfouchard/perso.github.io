@@ -15,17 +15,9 @@ redirect_from:
 - Laminin γ1-dependent basement membranes are instrumental to ensure proper olfactory placode shape, position and boundary with the brain, as well as olfactory axon development. (2024). P. Tignard, K. Pottin, A. Geeverding, M. Doulazmi, M. Cabrera, C. Fouquet, M. Liffran, J. Fouchard, M. Rosello, S. Albadri, F. Del Bene, A. Trembleau and M.A. Breau. *eLife*, 12, RP92004.
 - High-resolution spatial mapping of shear properties in cartilage. (2010). M.R. Buckley, A.J. Bergou, J. Fouchard, L.J. Bonassar, and I. Cohen. *Journal of biomechanics*, 43(4):796–800.
 
-**Flows and folds of epithelial tissues**
-- Rupture strength of living cell monolayers. (2024). J. Duque, A. Bonfanti, J. Fouchard, L. Baldauf, S. R. Azenha, E. Ferber, A. Harris, E. Barriga, A. Kabla and G. Charras. *Nature Materials*, 23:1563–1574.
-- Curling of epithelial monolayers reveals a coupling between active bending and tissue tension. (2020). J. Fouchard, T. Wyatt, A. Proag, A. Lisica, P. Recho, M. Suzanne, A. Kabla and G. Charras. *PNAS*, 117(17):9377-9383.
-- Actomyosin controls planarity and folding of epithelial monolayers during compression. (2020). T. Wyatt, J. Fouchard, A. Lisica, N. Khalilgharibi, B. Baum, P. Recho, A. Kabla and G. Charras. *Nature Materials*, 19:109–117. Commented in the same issue: To buckle or not to buckle, U. Schwartz, 19:8–9.
-- A tug-of-war between stretching and bending in living cell sheets. (2020). P. Recho, J. Fouchard, T. Wyatt, N. Khalilgharibi, G. Charras and A. Kabla. *Physical Review E*, 102, 012401.
-- A unified rheological model for cells and cellularised materials. (2020). A. Bonfanti, J. Fouchard, N. Khalilgharibi, G. Charras and A. Kabla. *Royal Society Open Science*, 7:190920.
-- Stress relaxation in epithelial monolayers is controlled by actomyosin. (2019) N. Khalilgharibi, J. Fouchard, N. Asadipour, A. Harris, P. Mosaffa, Y. Fujita, A. Kabla, J. Munoz, M. Miodownik, and G. Charras. *Nature Physics*, 15:839–847.
-
 **Single cell mechanosensing**
 - Allometric spreading and focal adhesion collective organization are coordinated by cell-scale geometrical constraints. (2025). C. Bimbard, A-A. Wahhod, D. Mitrossilis, J. Vermeil, R. Bousquet, A. Richert, D. Pereira, P. Durand-Smet, J. Etienne, A. Asnacios and J. Fouchard. *Biophysical Journal* 124(16):2754-2767.
-Article promoted on the cover of Biophysical Journal. See also [description on the journal blog](https://www.biophysics.org/blog/cell-adhesion-pattern-shows-conserved-scalings-under-geometrical-control)
+Article promoted on the cover of Biophysical Journal. See also [description on the journal blog](https://www.biophysics.org/blog/cell-adhesion-pattern-shows-conserved-scalings-under-geometrical-control).
 
 <div style="text-align:center">
     <img src="/coverBiophysJ-Spreading.jpg" width="200" height="400">
@@ -36,6 +28,14 @@ Article promoted on the cover of Biophysical Journal. See also [description on t
 - Three-dimensional cell body shape dictates the onset of traction force generation and growth of focal adhesions. (2014). J. Fouchard, C. Bimbard, N. Bufi, P. Durand-Smet, A. Proag, A. Richert, O. Cardoso, and A. Asnacios. *PNAS*, 111(36):13075–13080.
 - Real-time single-cell response to stiffness. (2010). D. Mitrossilis, J. Fouchard, D. Pereira, F. Postic, A. Richert, M. Saint-Jean, and A. Asnacios. *PNAS*, 107(38):16518–16523.
 - Single-cell response to stiffness exhibits muscle-like behavior. (2009) D. Mitrossilis, J. Fouchard, A. Guiroy, N. Desprat, N. Rodriguez, B. Fabry, and A. Asnacios. *PNAS*, 106(43):18243–18248.
+
+**Flows and folds of epithelial tissues**
+- Rupture strength of living cell monolayers. (2024). J. Duque, A. Bonfanti, J. Fouchard, L. Baldauf, S. R. Azenha, E. Ferber, A. Harris, E. Barriga, A. Kabla and G. Charras. *Nature Materials*, 23:1563–1574.
+- Curling of epithelial monolayers reveals a coupling between active bending and tissue tension. (2020). J. Fouchard, T. Wyatt, A. Proag, A. Lisica, P. Recho, M. Suzanne, A. Kabla and G. Charras. *PNAS*, 117(17):9377-9383.
+- Actomyosin controls planarity and folding of epithelial monolayers during compression. (2020). T. Wyatt, J. Fouchard, A. Lisica, N. Khalilgharibi, B. Baum, P. Recho, A. Kabla and G. Charras. *Nature Materials*, 19:109–117. Commented in the same issue: To buckle or not to buckle, U. Schwartz, 19:8–9.
+- A tug-of-war between stretching and bending in living cell sheets. (2020). P. Recho, J. Fouchard, T. Wyatt, N. Khalilgharibi, G. Charras and A. Kabla. *Physical Review E*, 102, 012401.
+- A unified rheological model for cells and cellularised materials. (2020). A. Bonfanti, J. Fouchard, N. Khalilgharibi, G. Charras and A. Kabla. *Royal Society Open Science*, 7:190920.
+- Stress relaxation in epithelial monolayers is controlled by actomyosin. (2019) N. Khalilgharibi, J. Fouchard, N. Asadipour, A. Harris, P. Mosaffa, Y. Fujita, A. Kabla, J. Munoz, M. Miodownik, and G. Charras. *Nature Physics*, 15:839–847.
 
 **Mechanics of cell division**
 - Tension at intercellular junctions is necessary for accurate orientation of cell division in the epithelium plane. (2022). A. Lisica, J. Fouchard, M. Kelkar, T. Wyatt, J. Duque, A.-B. Ndiaye, A. Bonfanti, B. Baum, A. Kabla and G. Charras. *PNAS*, 119(49), e2201600119.
