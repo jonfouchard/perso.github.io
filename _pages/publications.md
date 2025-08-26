@@ -17,7 +17,7 @@ redirect_from:
 
 **Single cell mechanosensing**
 - Allometric spreading and focal adhesion collective organization are coordinated by cell-scale geometrical constraints. (2025). C. Bimbard, A-A. Wahhod, D. Mitrossilis, J. Vermeil, R. Bousquet, A. Richert, D. Pereira, P. Durand-Smet, J. Etienne, A. Asnacios and J. Fouchard. *Biophysical Journal* 124(16):2754-2767.
-Article promoted on the cover of Biophysical Journal. See also [description on the journal blog](https://www.biophysics.org/blog/cell-adhesion-pattern-shows-conserved-scalings-under-geometrical-control).
+Article promoted on the cover of Biophysical Journal. See also [description on the journal blog](https://www.biophysics.org/blog/cell-adhesion-pattern-shows-conserved-scalings-under-geometrical-control)
 
 <div style="text-align:center">
     <img src="/coverBiophysJ-Spreading.jpg" width="200" height="400">
