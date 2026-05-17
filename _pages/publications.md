@@ -46,4 +46,8 @@ Article promoted on the cover of Biophysical Journal. See also [description on t
 - Acto-myosin based response to stiffness and rigidity sensing. (2011). J. Fouchard, D. Mitrossilis, and A. Asnacios. *Cell Adhesion and Migration*, 5(1):16–19.
 
 **Methods**
-- Design and optimization of in situ self-functionalizing stress sensors. (2025).  O. Vasiljevic, N. Harmand, A. Hubert, L. Kebbal, V. Bormuth, C. Hayn, J. Fouchard, M.A. Breau, L.-L. Pontani, *arXiv*, 2507.05907.
+- Design and optimization of in situ self-functionalizing stress sensors. (2026).  O. Vasiljevic, N. Harmand, A. Hubert, L. Kebbal, V. Bormuth, C. Hayn, J. Fouchard, E. Wandersman, M.A. Breau, L.-L. Pontani, *European Physical Journal E*, 49,12.
+
+**Names and representations of living tissues**
+- Collagenèse. (2026). N. Benahmed, J. Fouchard, N. Rousseau, carnet Hypothèses *Noms et représentations des tissus vivants*, OpenEdition.
+
